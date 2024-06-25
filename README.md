@@ -12,3 +12,15 @@ A complete sniper bot for dexscreener moonshot light and simple and fast highest
 - **Instant sell:** Instantly sell after buying
 - **TOP Buy position:** Top buy positions even without JITO
 
+### Coming soon
+Jito engine integration
+Buy with just a mint address
+Snipe by creator
+And more...
+
+### Contact
+Interested in this sniper bot or have questions? Reach out via:
+- **Telegram:** @primeoss
+- **Discord:** primeoss
+- **Email:** prime@oss.one
+
