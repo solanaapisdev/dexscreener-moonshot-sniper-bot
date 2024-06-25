@@ -1,3 +1,3 @@
 # Dexscreener moonshot sniper bot
 
-![Dexscreener Moonshot Sniper Bot](https://github.com/primeoss/dexscreener-moonshot/blob/main/dexscreener_moonshot.png)
+![Dexscreener Moonshot Sniper Bot](https://i.ibb.co/99nzQQd/dexscreener-moonshot.png)
