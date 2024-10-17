@@ -20,7 +20,6 @@ And more...
 
 ### Contact
 Interested in this sniper bot or have questions? Reach out via:
-- **Telegram:** @primeoss
-- **Discord:** primeoss
-- **Email:** prime@oss.one
+- **Telegram**: [solanaapisdev](https://t.me/solanaapisdev)
+- **Email**: [support@solanaapis.com](mailto:support@solanaapis.com)
 
